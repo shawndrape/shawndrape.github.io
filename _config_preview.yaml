@@ -1,0 +1,8 @@
+# Config used to generate the preview pane.
+# The preview is continuously rebuilt while you edit.
+
+baseurl: /preview/  # Don't change this.
+
+# Add your own config below, but don't forget to update
+# _config_published.yaml too.
+permalink: /blog/:categories/:year/:month/:day/:title.html

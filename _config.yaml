@@ -1,0 +1,10 @@
+# Config used when you publish the live site.
+
+baseurl: /  # Note:  Different from preview.
+
+# Add your own config below, but don't forget to update
+# _config_preview.yaml too, or your preview pane will
+# look wrong.
+permalink: /blog/:categories/:year/:month/:day/:title.html
+encoding: UTF-8
+# gems: ["jekyll-font-awesome"]

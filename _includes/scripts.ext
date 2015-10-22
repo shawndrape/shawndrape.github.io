@@ -1,0 +1,2 @@
+<script src="{{ site.url }}/js/jquery.min.js"/>
+<script src="{{ site.url }}/js/bootstrap.js"/>
