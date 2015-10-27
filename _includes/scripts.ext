@@ -1,2 +1,9 @@
 <script src="{{ site.url }}/js/jquery.min.js"/>
 <script src="{{ site.url }}/js/bootstrap.js"/>
+
+<!-- Custom JS loading taken from http://mattgemmell.com/page-specific-assets-with-jekyll/ -->
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='/js/{{ js_file }}.js' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
