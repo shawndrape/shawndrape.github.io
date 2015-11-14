@@ -25,7 +25,6 @@ sufficient.
   	"@type": "EducationalOrganization"
   },
   "email": "shawn@dra.pe",
-  "telephone": "(647) 785-4175",
   "url": "http://shawndrape.com",
   "sameAs": [
   	"https://twitter.com/shawndrape",
