@@ -5,10 +5,11 @@
 
 <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.css"/>
 <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.css"/>
+<link rel="stylesheet" href="{{ site.url }}/css/custom.css"/>
 
 <!-- Custom CSS loading taken from http://mattgemmell.com/page-specific-assets-with-jekyll/ -->
 {% if page.custom_css %}
   {% for stylesheet in page.custom_css %}
-  <link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
+  	<link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
   {% endfor %}
 {% endif %}

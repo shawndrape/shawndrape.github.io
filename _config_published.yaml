@@ -6,3 +6,4 @@ baseurl: /  # Note:  Different from preview.
 # _config_preview.yaml too, or your preview pane will
 # look wrong.
 permalink: /blog/:categories/:year/:month/:day/:title.html
+encoding: UTF-8
