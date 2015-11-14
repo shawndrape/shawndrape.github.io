@@ -1,6 +1,7 @@
 # Config used when you publish the live site.
 
 baseurl: /  # Note:  Different from preview.
+development: false
 
 # Add your own config below, but don't forget to update
 # _config_preview.yaml too, or your preview pane will

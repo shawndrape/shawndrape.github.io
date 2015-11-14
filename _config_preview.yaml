@@ -2,6 +2,7 @@
 # The preview is continuously rebuilt while you edit.
 
 baseurl: /preview/  # Don't change this.
+development: true
 
 # Add your own config below, but don't forget to update
 # _config_published.yaml too.

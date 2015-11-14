@@ -1,5 +1,5 @@
-<script src="{{ site.url }}/js/jquery.min.js"/>
-<script src="{{ site.url }}/js/bootstrap.js"/>
+<script src="{{ site.url }}/js/jquery.min.js"></script>
+<script src="{{ site.url }}/js/bootstrap.js"></script>
 
 <!-- Custom JS loading taken from http://mattgemmell.com/page-specific-assets-with-jekyll/ -->
 {% if page.custom_js %}
