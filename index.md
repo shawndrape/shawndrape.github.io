@@ -10,10 +10,13 @@ title: Main
 <img class="profile img-responsive img-rounded pull-left" src="{{site.url}}/images/profile.jpg"
 alt="Shawn Drape profile photo"/>
 Shawn Drape is an Application Developer specializing in full stack web
-solutions. For the past 7 years he has been championing a user-centric design
-philosophy to IT services, building SSO integrations into SaaS Cloud apps and
-management tools that give end-users and HR managers the ability to be self
-sufficient.
+solutions working out of the Greater Toronto Area. For the past 7 years 
+he has been championing a user-centric design philosophy to IT services,
+building SSO integrations into SaaS Cloud apps and management tools that 
+give end-users and HR managers the ability to be self sufficient.
+
+He is also an on-again/off-again martial artist of 10 years, with a 1st dan 
+black belt in [Haidong Gumdo](http://en.wikipedia.org/wiki/Haidong_Gumdo).
 
 
 <script type="application/ld+json"> {

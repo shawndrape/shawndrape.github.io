@@ -1,0 +1,18 @@
+---
+layout: post
+title: OAuth for Hardware
+date: '2010-08-26T20:39:00.000-04:00'
+author: Shawn Drape
+tags:
+- food for thought
+modified_time: '2010-08-26T20:39:58.224-04:00'
+thumbnail: http://1.bp.blogspot.com/_dMa_xWD7ask/THcJL_HM-LI/AAAAAAAAAIQ/SDDplR-HiA8/s72-c/brick_phone.jpg
+blogger_id: tag:blogger.com,1999:blog-4388783192727113653.post-3466152922189245759
+blogger_orig_url: http://shawndrape.blogspot.com/2010/08/news-of-apples-recent-patent-regarding.html
+---
+
+News of Apple's recent patent regarding spying on phone users has made me give some thought to hardware security and access rights. So!
+
+<a href="http://1.bp.blogspot.com/_dMa_xWD7ask/THcJL_HM-LI/AAAAAAAAAIQ/SDDplR-HiA8/s1600/brick_phone.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://1.bp.blogspot.com/_dMa_xWD7ask/THcJL_HM-LI/AAAAAAAAAIQ/SDDplR-HiA8/s320/brick_phone.jpg" /></a>
+
+Food for thought: OAuth for hardware controllers. On the iPhone it already exists for the location services in one form: Apps need to be granted access once, and web apps need to be granted each time (within a 24h gap I believe). However, I think that we should be able to give web clients continual access to hardware via permanent yet revocable authorization. What does that sound like to you?<br /><br />Furthermore, I think things like this should be extended to other hardware features such as the camera and vibrate functions. What it would take would be (from my completely ignorant point of view) a central "API" access point for phones of a given type that could be given to web clients to allow access to hardware features if properly signed.<br /><br />For example, I'll take RIM since blackberry phones are fairly tied to the RIM network. If I want to get access to John Doe's phone, I should be able to request a secret and consumer key from him for a particular feature and then sign requests to&nbsp;<a class="ot-anchor" href="http://rimissohawt.com/phone/api">rimissohawt.com/phone/api</a>&nbsp;to get access.<br /><br />Thoughts? (Linda Lawrey says I should always spiff my posts up if they are long, so here is a funny image for your enjoyment. I like Androids, but I like the Chrome error icon more.)
