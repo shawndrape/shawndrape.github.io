@@ -8,7 +8,7 @@ title: Main
 ##Full Stack Web Dev
 
 <img class="profile img-responsive img-rounded pull-left" src="{{site.url}}/images/profile.jpg"
-alt="Shawn Drape profile photo"/>
+alt="Shawn Drape profile photo">
 Shawn Drape is an Application Developer specializing in full stack web
 solutions working out of the Greater Toronto Area. For the past 7 years 
 he has been championing a user-centric design philosophy to IT services,
