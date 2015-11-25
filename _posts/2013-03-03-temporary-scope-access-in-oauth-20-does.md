@@ -27,4 +27,4 @@ Second, a user giving permission to various scopes don't get the ability to choo
 
 In the end, I decided to revoke Asana's rights on my account which I had been using on the desktop. I was only really experimenting with it and while it seems useful at this point my higher priority is on data security. Hopefully in the future, I won't have to make a choice between the two for Asana or any application.
 
-If you agree with me that this sort of thing can be a problem, I'd love to hear from you in the comments.
+If you agree with me that this sort of thing can be a problem, I'd love to hear from you in the comments. (Edit: New site does not have comments. Sorry.)
